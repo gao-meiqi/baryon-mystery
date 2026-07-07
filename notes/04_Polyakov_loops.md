@@ -22,3 +22,18 @@
 - confinement is clearly observed to have a stringy structure 
 > 这里是lattice以外的理解吗
 - The other reason the relation of confinement to entanglement is nontrivial is because it is not clear one can assign in general geometrical structure to confinement
+
+----
+#### the entanglement entropy of infrared (finite-size) objects
+- the standard definition & gauge-invariant Hilbert spaces
+- resolve it through alternative definitions of the reduced density matrix
+- “extended Hilbert space” : 将规范不变的 Hilbert 空间延拓
+
+---
+start
+- a reduced density matrix [gauge-invariant operator]
+- choice of algebra
+- 不同的代数选择会导致不同的中心（center），从而得到不同的纠缠熵
+> confinement is the realization of center symmetry. 
+> ?
+
