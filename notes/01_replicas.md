@@ -43,3 +43,13 @@ Future studies could investigate this by introducing multiple entangling regions
 - finite flux-tube width
 - richer internal structure
 - potentially richer entanglement physics
+
+
+-----
+- ρ=e^−βH.
+- t=0 t=beta 对应 一个"有两个边界"的Euclidean路径积分
+- Trρ有点像 bra和ket变成同一个
+- 几何上意味着 上下可以粘起来
+- Replica Trick 是把公式 S=−TrρV​logρV 变成 S=−∂/∂n ​logTrρV^n​ n=1​的trick
+
+> Boson 要 periodic? :就是因为配分函数是tr

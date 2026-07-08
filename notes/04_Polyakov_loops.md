@@ -15,9 +15,10 @@
 - classical Bekenstein-Hawking entropy
 - the nature of the microstates that constitute the entanglement entropy
 > 和热统联系起来了??
-----
-- the dynamics of confinement in gauge theories (in the language of quantum information)
-> 动力学
+
+#### confinement
+> the dynamics of confinement in gauge theories
+- (in the language of quantum information) 动力学 confinement
 - 2D and higner dimension
 - confinement is clearly observed to have a stringy structure 
 > 这里是lattice以外的理解吗
@@ -27,7 +28,6 @@
 #### the entanglement entropy of infrared (finite-size) objects
 - the standard definition & gauge-invariant Hilbert spaces
 - resolve it through alternative definitions of the reduced density matrix
-- “extended Hilbert space” : 将规范不变的 Hilbert 空间延拓
 
 ---
 start
