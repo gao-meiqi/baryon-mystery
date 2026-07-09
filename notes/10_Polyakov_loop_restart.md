@@ -38,4 +38,7 @@ pn​∝e−βEn​, with β=1/kB​T
 - 第一块路径积分结束 第二块路径积分开始 stack
 - 几何定义上的稳定性 center of an algebra & cusp
 
+另外
+- 还贡献了 利用 Polyakov loop 把整个定义写成 Gauge invariant
+
 
