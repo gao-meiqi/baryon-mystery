@@ -39,6 +39,11 @@ pn​∝e−βEn​, with β=1/kB​T
 - 几何定义上的稳定性 center of an algebra & cusp
 
 另外
+
 - 还贡献了 利用 Polyakov loop 把整个定义写成 Gauge invariant
+
+#### comment
+- 具体推导如何展现出来 the electric algebra
+- ?
 
 
