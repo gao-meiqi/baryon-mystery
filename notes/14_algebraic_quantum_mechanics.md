@@ -12,3 +12,12 @@
 在 electric algebra 语言里，它对应的是 center 的一个固定超选扇区带来的维数贡献
 
 对于每一个开放区域 O, 对应一个算符代数 A(O)
+
+
+- Gauss law 
+- 因为边界上的电场通量 E⊥∣∂A 决定了区域里面有没有电荷
+
+
+----
+- 我选择把“电通量”作为区域边界的信息
+- replicas are joined at time slices of spatial links
